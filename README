@@ -1,0 +1,12 @@
+To make this work:
+
+Archive the Payload folder to "Swisscom_ch.zip"
+
+Then rename it to "Swisscom_ch.ipcc"
+
+Alt-Click "Check for updates" in itunes and select the said ipcc file
+If it's grayed out, make sure it's ipcc and not zip (use terminal)
+
+Restart your iPhone and you should find it under Settings -> General -> Networking -> Tethering
+
+Enjoy.
